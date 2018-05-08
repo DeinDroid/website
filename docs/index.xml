@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on DeinDroid</title>
+    <link>/docs/</link>
+    <description>Recent content in Docs on DeinDroid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    
+	<atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Backups</title>
+      <link>/docs/backup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/backup/</guid>
+      <description>Speichert vor Beginn der Installation alle wichtigen Daten auf einem externen Speichermedium (z.B. PC). Typischerweise betrifft das folgende Dinge:
+ Bilder, Dokumente, Musik etc. Nachrichten Kalender Kontakte/Adressbuch  Vergesst auch nicht euch zu vergewissern, dass ihr noch alle Zugangsdaten eurer Konten habt, über die ihr auf eurem Smartphone angemeldet seid (z.B. Mailaccount, Twitter, Snapchat etc.).
+Nützliche Backup-Programme:
+ To be continued&amp;hellip;  </description>
+    </item>
+    
+    <item>
+      <title>Linksammlung</title>
+      <link>/docs/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/links/</guid>
+      <description>LineageOS-Images: Unterstützte Geräte mit Anleitung (englisch) https://wiki.lineageos.org/devices/ Recovery-Images: TWRP https://twrp.me/Devices/ Open GApps: Google Apps wie &amp;lsquo;Play Store&amp;rsquo; und &amp;lsquo;Maps&amp;rsquo; http://opengapps.org/ App-Stores:  F-Droid Store: Alternativer App Store, der nur freie Software enthält https://f-droid.org/en/ YalpStore: Alternativer App Store zum Laden der Apps aus dem Google &amp;lsquo;Play Store&amp;rsquo;, ohne dass ein Google Account notwendig ist https://f-droid.org/packages/com.github.yeriomin.yalpstore/  Android Smartphone google-frei: Broschüre des Technik-Kollektivs Systemli Was weiß Google eigentlich alles über mich? Was sind Google Play Dienste?</description>
+    </item>
+    
+    <item>
+      <title>Was mitbringen?</title>
+      <link>/docs/mitbringen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/mitbringen/</guid>
+      <description> MicroSD-Karte mit ~8GB verfügbaren Speicher Ladekabel für dein Handy (und gfls. dein Laptop, s. u.) Ein Laptop, um die Software aufzuspielen (wie gesagt, falls möglich!) Ein USB-OTG Kabel Falls oberes: dann auch einen USB Stick :)  </description>
+    </item>
+    
+  </channel>
+</rss>
