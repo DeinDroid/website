@@ -48,5 +48,15 @@ Um es kurz zu machen: über die LineageOS-Seite könnt ihr schauen, ob euer Ger�
       <description> MicroSD-Karte mit ~8GB verfügbaren Speicher Ladekabel für dein Handy (und gfls. dein Laptop, s. u.) Ein Laptop, um die Software aufzuspielen (wie gesagt, falls möglich!) Ein USB-OTG Kabel Falls oberes: dann auch einen USB Stick :)  </description>
     </item>
     
+    <item>
+      <title>Workshoptag</title>
+      <link>/docs/workshop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/workshop/</guid>
+      <description>Diese Liste soll schlicht das Finden der richtigen Seiten vereinfachen.
+Allgemein  f-droid store: https://f-droid.org/ Google Apps: https://opengapps.org/  One Plus 3  Anleitung für ADB und Fastboot: https://wiki.lineageos.org/adb_fastboot_guide.html Bootmode-Tipps: https://wiki.lineageos.org/devices/oneplus3/ LineageOS-Anleitung: https://wiki.lineageos.org/devices/oneplus3/install TWRP-Image: https://dl.twrp.me/oneplus3/twrp-3.2.1-0-oneplus3.img.html  Xiaomi Redmi Note 4  Anleitung für ADB und Fastboot: https://wiki.lineageos.org/adb_fastboot_guide.html Bootmode:https://wiki.lineageos.org/devices/mido Anleitung: https://wiki.lineageos.org/devices/mido/install Anmerkungen: Unlocking Permission vom Hersteller wird benötigt TWRP-Image: https://dl.twrp.me/mido/twrp-3.2.1-0-mido.img.html  Motorola Moto G  Anleitung für ADB und Fastboot: https://wiki.</description>
+    </item>
+    
   </channel>
 </rss>
