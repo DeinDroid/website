@@ -26,7 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/geraet/</guid>
-      <description>Ist mein Gerät kompatibel? Wir fragen vor dem Workshop explizit nach eurem Smartphone Modell, weil nicht jedes Gerät kompatibel ist. Leider sind in fast jedem Smartphone unterschiedliche Bauteile verbaut, die mit unterschiedlicher Software (man spricht von &amp;ldquo;Treibern&amp;rdquo; oder &amp;ldquo;Firmware&amp;rdquo;) angeprochen werden müssen. Deshalb muss für jedes Smartphone Modell eine eigene Version von LineageOS bereitgestellt werden (das System verhält sich dann aber immer gleich).
+      <description>Ist mein Gerät kompatibel? Wir fragen vor dem Workshop explizit nach eurem Smartphone Modell, weil nicht jedes Gerät kompatibel ist. Leider sind in fast jedem Smartphone unterschiedliche Bauteile verbaut, die mit unterschiedlicher Software (man spricht von &amp;ldquo;Treibern&amp;rdquo; oder &amp;ldquo;Firmware&amp;rdquo;) angeprochen werden müssen. Deshalb muss für jedes Smartphone Modell eine eigene Version von LineageOS bereitgestellt werden (das System verhält sich dann aber auf jedem Gerät gleich).
 Um es kurz zu machen: über die LineageOS-Seite könnt ihr schauen, ob euer Gerät offiziell unterstützt wird.</description>
     </item>
     
